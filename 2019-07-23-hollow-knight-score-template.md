@@ -26,7 +26,7 @@
 - [ ] Descending Dark
 - [ ] Howling Wraiths
 - [ ] Abyss Shriek
-- [ ] Vengeful Spirit
+- [x] Vengeful Spirit
 - [ ] Shade Soul
 
 ### Important items
@@ -81,14 +81,14 @@
 ### Charms
 
 - [ ] Wayward Compass
-- [ ] Gathering Swarm
+- [x] Gathering Swarm
 - [ ] Stalwart Shell
-- [ ] Soul Catcher
+- [x] Soul Catcher
 - [ ] Shaman Stone
 - [ ] Soul Eater
 - [ ] Dashmaster
 - [ ] Thorns of Agony
-- [ ] Fury of the Fallen
+- [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
