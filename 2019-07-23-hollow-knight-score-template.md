@@ -33,7 +33,7 @@
 
 - [ ] Tram Pass
 - [ ] Lumafly Lantern
-- [ ] Map and Quill
+- [x] Map and Quill
 - [ ] Hunter's Journal
 
 ### Nail Arts
