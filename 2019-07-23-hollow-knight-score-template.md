@@ -17,7 +17,7 @@
 - [ ] Mantis Claw
 - [ ] Monarch Wings
 - [ ] Isma's Tear
-- [ ] Mothwing Cloak
+- [x] Mothwing Cloak
 - [ ] Shade Cloak
 
 ### Spells
@@ -87,7 +87,7 @@
 - [ ] Shaman Stone
 - [ ] Soul Eater
 - [ ] Dashmaster
-- [ ] Thorns of Agony
+- [x] Thorns of Agony
 - [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
