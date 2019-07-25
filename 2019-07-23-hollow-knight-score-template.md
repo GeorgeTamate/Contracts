@@ -14,7 +14,7 @@
 
 - [ ] King's Brand
 - [ ] Crystal Heart
-- [ ] Mantis Claw
+- [x] Mantis Claw
 - [ ] Monarch Wings
 - [ ] Isma's Tear
 - [x] Mothwing Cloak
@@ -32,9 +32,9 @@
 ### Important items
 
 - [ ] Tram Pass
-- [ ] Lumafly Lantern
+- [x] Lumafly Lantern
 - [x] Map and Quill
-- [ ] Hunter's Journal
+- [x] Hunter's Journal
 
 ### Nail Arts
 
@@ -44,15 +44,15 @@
 
 ### Nail Upgrades
 
-- [ ] Old Nail -> Sharpened Nail
+- [x] Old Nail -> Sharpened Nail
 - [ ] Sharpened Nail -> Channelled Nail
 - [ ] Channelled Nail -> Coiled Nail
 - [ ] Coiled Nail -> Pure Nail
 
 ### Mask Shars / Vessel Fragments
 
-- [ ] Mask Shard 1
-- [ ] Mask Shard 2
+- [x] Mask Shard 1
+- [x] Mask Shard 2
 - [ ] Mask Shard 3
 - [ ] Mask Shard 4
 - [ ] Mask Shard 5
@@ -80,17 +80,17 @@
 
 ### Charms
 
-- [ ] Wayward Compass
+- [x] Wayward Compass
 - [x] Gathering Swarm
 - [ ] Stalwart Shell
 - [x] Soul Catcher
 - [ ] Shaman Stone
 - [ ] Soul Eater
-- [ ] Dashmaster
+- [x] Dashmaster
 - [x] Thorns of Agony
 - [x] Fury of the Fallen
-- [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
-- [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
+- [x] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
+- [x] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
 - [ ] Spell Twister
 - [ ] Steady Body
